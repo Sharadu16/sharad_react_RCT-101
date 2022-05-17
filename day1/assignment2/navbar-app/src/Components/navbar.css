@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    /* border: 1px solid red; */
+    width: 90%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.navbar>div{
+    display: flex;
+   
+}
+.headingTag{
+    padding-top: 15px;
+    color: aliceblue;
+}
+.paraTag>p{
+     justify-content: space-between;
+     padding: 15px 0px 0px 20px;
+     color: aliceblue;
+}
+.buttonTag{
+    padding:10px 10px;
+}
+.button{
+    padding: 0px 30px;
+    border-radius: 16px;
+    color: aliceblue;
+    background-color:rgb(8, 141, 229);
+    border: none;
+    cursor: pointer;
+}
