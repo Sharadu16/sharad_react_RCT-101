@@ -1,0 +1,56 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+
+.mainDiv{
+    /* border: 1px solid red; */
+    width:700px;
+    height:500px;
+
+}
+.Div1{
+    display: flex;
+    justify-content: space-between;
+    padding:0px 20px 0px 20px;
+}
+.date{
+    padding-top: 35px;
+}
+.icon1{
+   font-size: 60px;
+   padding-right: 30px;
+   padding-top: 20px;
+}
+.Div2{
+    /* border: 1px solid red; */
+    width: 140px;
+    height: 45px;
+    margin-top: 50px;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+    font-weight: bolder;
+}
+.Div3{
+  margin-top:50px ;
+  margin-left: 20px;
+}
+.Div4{
+    margin-top:50px ;
+    margin-left: 20px;
+}
+
+.Div5{
+    display: flex;
+    justify-content: space-between;
+    padding:40px 20px 0px 20px;
+}
+.icon2{
+    font-size: 30px;
+    padding-right: 30px;
+}
