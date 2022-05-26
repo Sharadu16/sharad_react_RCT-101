@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.timerContainer{
+    border: 2px solid black;
+    background: linear-gradient(270deg, #051817, #0e3839);
+    width:300px;
+    height: 180px;
+    padding-top: 40px;
+    font-size: 50px;
+    font-weight: bolder;
+    border-radius: 10px;
+}
+.timer{
+    color: #06f1f6;
+}
+
+.btn {
+    width:120px;
+    height:50px;
+    font-size: 25px;
+    margin-top: 30px;
+    background-color: red;
+    border-radius: 10px;
+    color: #06f1f6;
+    margin-left: 10px;
+}

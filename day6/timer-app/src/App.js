@@ -1,12 +1,13 @@
-
 import './App.css';
 import Timer from './components/Timer';
+
 
 function App() {
 
   return (
     <div className="App">
-      <Timer  />
+       <h1>This is my Timer : </h1>
+       <Timer/>
     </div>
   );
 }

@@ -10,11 +10,16 @@
   background-color: #282c34;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
+  padding-top: 50px;
 }
+ h1{
+   color :darkorange;
+   margin-bottom: 50px;
+ }
 
-.clock{
+/* .clock{
   position: relative;
   margin: a;
   display: flex;
@@ -44,7 +49,7 @@
 .clock>section>p{
   color:silver;
   text-shadow: none;
-}
+} */
 
 /* .App-logo {
   height: 40vmin;
